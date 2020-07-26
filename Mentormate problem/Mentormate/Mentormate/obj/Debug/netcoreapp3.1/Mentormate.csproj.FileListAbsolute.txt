@@ -1,0 +1,13 @@
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.exe
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.deps.json
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.runtimeconfig.json
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.runtimeconfig.dev.json
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.dll
+D:\Mentormate problem\Mentormate\Mentormate\bin\Debug\netcoreapp3.1\Mentormate.pdb
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.csprojAssemblyReference.cache
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.AssemblyInfoInputs.cache
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.AssemblyInfo.cs
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.csproj.CoreCompileInputs.cache
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.dll
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.pdb
+D:\Mentormate problem\Mentormate\Mentormate\obj\Debug\netcoreapp3.1\Mentormate.genruntimeconfig.cache
